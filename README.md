@@ -29,8 +29,10 @@ cd /usr
 ./bin/mongo
 ```
 
+Install robomongo on Ubuntu, find instructions in [here](https://askubuntu.com/questions/739297/how-to-install-robomongo-on-ubuntu/781793)
+
 Install Compass in [here](https://docs.mongodb.com/compass/master/install/)
-1. Start Compass:
+1. Start Compass.
 ```bash
 sudo DEBUG=* mongodb-compass;
 ```
