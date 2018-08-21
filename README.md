@@ -28,11 +28,10 @@ mongo --host 127.0.0.1:27017
 cd /usr
 ./bin/mongo
 ```
-
 Install robomongo on Ubuntu, find instructions in [here](https://askubuntu.com/questions/739297/how-to-install-robomongo-on-ubuntu/781793)
-
 Install Compass in [here](https://docs.mongodb.com/compass/master/install/)
 1. Start Compass.
 ```bash
 sudo DEBUG=* mongodb-compass;
 ```
+How To Install and Configure Elasticsearch on Ubuntu 16.04, finf instruction in [here](https://www.digitalocean.com/community/tutorials/how-to-install-and-configure-elasticsearch-on-ubuntu-16-04)
