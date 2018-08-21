@@ -23,6 +23,11 @@ sudo service mongod restart
 ```bash
 mongo --host 127.0.0.1:27017
 ```
+5. Run MongoDB Shell.
+```bash
+cd /usr
+./bin/mongo
+```
 
 Install Compass in [here](https://docs.mongodb.com/compass/master/install/)
 1. Start Compass:
