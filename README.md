@@ -35,5 +35,8 @@ Install Compass, find instruction in [here](https://docs.mongodb.com/compass/mas
 
 ### Install Elasticsearch ###
 How To Install and Configure Elasticsearch on Ubuntu 16.04 is in [here](https://www.digitalocean.com/community/tutorials/how-to-install-and-configure-elasticsearch-on-ubuntu-16-04), I liked [this](Elasticsearch and Kibana: installation and basic usage on Ubuntu 16.04) one more.
-
+ 
 How to solve problems starting elasticsearch in Ubuntu 16.04 in [here](https://lxadm.com/Problems_starting_elasticsearch_in_Ubuntu_16.04)
+
+### Install Kibana and Nginx ###
+See instructions in [here](https://www.digitalocean.com/community/tutorials/how-to-install-elasticsearch-logstash-and-kibana-elk-stack-on-ubuntu-16-04)
